@@ -1,5 +1,5 @@
-# Viking Game
-Jogo de plataforma em 2d com a tematica viking, usando liguagem C e biblioteca SDL
+# C RPG
+Jogo de RPG em 2D, para testes de mecanica usando liguagem C e biblioteca SDL
 .
 
 ## 🚀 Começando
@@ -40,15 +40,15 @@ Após a instalação, execute o comando abaixo para garantir que seu ambiente es
 #### 🔗 Obtendo um clone
 * Abra o CMD
 * Acesse uma pasta de sua preferencia, recomendo que use uma proxima da `C:/`, no caso estou usando a `C:/Projetos`.
-* Nela, realize o clone do repositório com o comando ```git clone https://github.com/ErickCalegaro/viking_game.git```
+* Nela, realize o clone do repositório com o comando ```git clone https://github.com/ErickCalegaro/c_rpg.git```
 
 #### 🧱 Compilando
 * Ainda com o CMD aberto execute o comando `code .` para abrir o VS Code.
 * Execute o atalho Ctrl + Shift + B para compilar o codigo de forma limpa
-Caso tenha algum problema, entre em **[Contato](https://api.whatsapp.com/send?phone=5511955828684&text=Ol%C3%A1%2C%20estou%20com%20duvidas%20sobre%20o%20projeto%20Viking%20Game%2C%20pode%20me%20auxiliar%3F)**
+Caso tenha algum problema, entre em **[Contato](https://api.whatsapp.com/send?phone=5511955828684&text=Ol%C3%A1%2C%20estou%20com%20duvidas%20sobre%20o%20projeto%20C%20RPG%2C%20pode%20me%20auxiliar%3F)**
 
 ## 🧨 Executando
-Após o build será criada a pasta output, nela, basta executar o arquivo `VikingGame_V.V.VV.exe`
+Após o build será criada a pasta output, nela, basta executar o arquivo `C_RPG.V.VV.exe`
 
 ## 🐞 Depurando
 Para definir o nivel de log que deseja utilizar basta alterar o define "LOG_LEVEL" no config.mk. 
@@ -103,7 +103,7 @@ Agora iremos abordar como você pode executar uma release oficial deste projeto.
 RFU
 
 ## 📌 Versão
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as **[tags neste repositório](https://github.com/ErickCalegaro/viking_game/tags)**. 
+Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as **[tags neste repositório](https://github.com/ErickCalegaro/c_rpg/tags)**. 
 
 ## ✒️ Autores
 
@@ -116,4 +116,4 @@ Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as vers�
 * Convide o desenvolvedor para tomar uma IPA 🍺;
 
 ## 📞 Contato
-* Qualquer duvida ou sugestão, pode entrar em contato pelo WhatsApp **[(11) 95582-8684](https://api.whatsapp.com/send?phone=5511955828684&text=Ol%C3%A1%2C%20estou%20com%20duvidas%20sobre%20o%20projeto%20Viking%20Game%2C%20pode%20me%20auxiliar%3F)**
+* Qualquer duvida ou sugestão, pode entrar em contato pelo WhatsApp **[(11) 95582-8684](https://api.whatsapp.com/send?phone=5511955828684&text=Ol%C3%A1%2C%20estou%20com%20duvidas%20sobre%20o%20projeto%20C%20RPG%2C%20pode%20me%20auxiliar%3F)**
